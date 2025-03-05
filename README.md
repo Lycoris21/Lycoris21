@@ -4,7 +4,7 @@
 
 🎓 **2nd-year BS Computer Science student at the University of San Carlos**  
 💻 **Aspiring Software Engineer**  
-🚀 Passionate about cool things, AND PROGRAMMING IS COOL!
+🚀 **Passionate about cool things, AND PROGRAMMING IS COOL!**
 
 ---
 
@@ -17,5 +17,5 @@
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lycoris21&layout=compact&theme=radical)
 
 
-### 🤓 How I think I look like when coding:
+### 🤓 How I think I look like when coding (glasses missing tho):
 ![Lycoris](https://github.com/Lycoris21/Lycoris21/blob/main/Lycoris.jpeg?raw=true)
