@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Lycoris21/Lycoris21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Christine Ann Dejito!
 
-Here are some ideas to get you started:
+🎓 **2nd-year BS Computer Science student at the University of San Carlos**  
+💻 **Aspiring Software Engineer**  
+🚀 Passionate cool things, AND PROGRAMMING IS COOL!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats:
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lycoris21&color=blue)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lycoris21&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycoris21&layout=compact&theme=radical)
+
+
+### 🤓 How I think I look like when coding:
+![Lycoris]()
