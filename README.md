@@ -4,7 +4,7 @@
 
 🎓 **2nd-year BS Computer Science student at the University of San Carlos**  
 💻 **Aspiring Software Engineer**  
-🚀 Passionate cool things, AND PROGRAMMING IS COOL!
+🚀 Passionate about cool things, AND PROGRAMMING IS COOL!
 
 ---
 
