@@ -1,7 +1,5 @@
 # Hi there! 👋
-
 ## I'm Christine Ann Dejito!
-
 🎓 **2nd-year BS Computer Science student at the University of San Carlos**  
 💻 **Aspiring Software Engineer**  
 🚀 **Passionate about cool things, AND PROGRAMMING IS COOL!**
