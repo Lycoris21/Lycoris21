@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lycoris21&show_icons=true&theme=radical" />
-  <br><br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lycoris21&layout=compact&theme=radical" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Lycoris21&color=blue" />
