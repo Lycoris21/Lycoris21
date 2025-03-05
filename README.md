@@ -18,4 +18,4 @@
 
 
 ### 🤓 How I think I look like when coding:
-![Lycoris]()
+![Lycoris](https://raw.githubusercontent.com/Lycoris21/Lycoris21/main/Lycoris.jpg)
