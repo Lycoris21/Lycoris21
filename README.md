@@ -15,8 +15,3 @@
 </p>
 
 ---
-
-### 🤓 How I think I look like when coding (glasses missing tho):
-<p align="center">
-  <img src="https://github.com/Lycoris21/Lycoris21/blob/main/Lycoris.jpeg?raw=true" height="300" />
-</p>
