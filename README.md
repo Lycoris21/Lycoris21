@@ -9,11 +9,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Lycoris21&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lycoris21&show_icons=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycoris21&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lycoris21&layout=compact"
     height="180"
   />
 </p>
